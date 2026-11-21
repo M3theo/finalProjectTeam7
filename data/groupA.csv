@@ -1,0 +1,13 @@
+sample_id,owner_group,site_code,collected_on,depth_cm,ph,moisture_pct,nitrogen_mg_kg,organic_carbon_pct,collector,notes
+A-001,GroupA,NORTH-01,2026-10-02,10,6.4,22.5,41.2,2.31,alice_a,baseline plot
+A-002,GroupA,NORTH-01,2026-10-02,30,6.7,25.1,33.8,1.87,alice_a,baseline plot
+A-003,GroupA,NORTH-02,2026-10-03,10,5.9,18.4,52.6,2.95,ben_a,near stream
+A-004,GroupA,NORTH-02,2026-10-03,30,6.1,21.0,44.3,2.40,ben_a,near stream
+A-005,GroupA,EAST-01,2026-10-05,10,7.2,15.7,28.9,1.42,alice_a,dry slope
+A-006,GroupA,EAST-01,2026-10-05,30,7.4,17.2,24.1,1.18,alice_a,dry slope
+A-007,GroupA,EAST-02,2026-10-06,10,6.8,19.9,37.5,2.05,chloe_a,shaded area
+A-008,GroupA,EAST-02,2026-10-06,30,6.9,23.3,31.0,1.76,chloe_a,shaded area
+A-009,GroupA,SOUTH-01,2026-10-08,10,5.6,27.8,58.4,3.22,ben_a,wet meadow
+A-010,GroupA,SOUTH-01,2026-10-08,30,5.8,30.1,49.7,2.88,ben_a,wet meadow
+A-011,GroupA,SOUTH-02,2026-10-09,10,6.3,20.6,39.9,2.14,chloe_a,UNPUBLISHED - internal only
+A-012,GroupA,SOUTH-02,2026-10-09,30,6.5,22.9,35.2,1.95,chloe_a,UNPUBLISHED - internal only

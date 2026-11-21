@@ -1,0 +1,13 @@
+reading_id,owner_group,sensor_id,location,recorded_at,pm25_ug_m3,pm10_ug_m3,no2_ppb,temperature_c,humidity_pct,operator,notes
+B-001,GroupB,SENS-01,Campus Gate,2026-10-10T08:00,12.4,24.8,18.2,14.5,62,dan_b,morning rush
+B-002,GroupB,SENS-01,Campus Gate,2026-10-10T12:00,9.8,19.3,14.6,18.9,51,dan_b,midday
+B-003,GroupB,SENS-01,Campus Gate,2026-10-10T18:00,15.1,29.7,22.4,16.2,58,dan_b,evening rush
+B-004,GroupB,SENS-02,Library Roof,2026-10-10T08:00,7.2,15.1,9.8,13.8,65,erin_b,elevated sensor
+B-005,GroupB,SENS-02,Library Roof,2026-10-10T12:00,6.5,13.9,8.1,18.1,53,erin_b,elevated sensor
+B-006,GroupB,SENS-02,Library Roof,2026-10-10T18:00,8.9,17.4,11.3,15.7,60,erin_b,elevated sensor
+B-007,GroupB,SENS-03,Parking Lot C,2026-10-11T08:00,18.6,36.2,27.5,12.9,70,frank_b,idling vehicles
+B-008,GroupB,SENS-03,Parking Lot C,2026-10-11T12:00,14.3,28.0,21.9,17.4,55,frank_b,idling vehicles
+B-009,GroupB,SENS-03,Parking Lot C,2026-10-11T18:00,20.2,39.5,30.1,15.0,63,frank_b,peak reading
+B-010,GroupB,SENS-04,Botanical Garden,2026-10-11T08:00,4.1,9.6,5.2,12.4,74,erin_b,green area control
+B-011,GroupB,SENS-04,Botanical Garden,2026-10-11T12:00,3.8,8.7,4.6,16.8,61,erin_b,CONFIDENTIAL - draft results
+B-012,GroupB,SENS-04,Botanical Garden,2026-10-11T18:00,4.6,10.2,5.9,14.6,68,erin_b,CONFIDENTIAL - draft results
