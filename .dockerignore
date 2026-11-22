@@ -1,0 +1,14 @@
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.vscode/
+workspace.db
+instance/workspace.db
+Dockerfile
+.dockerignore
